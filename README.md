@@ -1,4 +1,4 @@
-# AWS-S3_Bucket-Operation-using-PHP
+# AWS-S3_Bucket-Operation-using-PHP-and-AWS-SDK-S3-client
 I am integrating Amazon Cloud storage services S3 Bucket ( AWS cloud repository ) to my local hosted webpage using PHP scripts.
 
 
